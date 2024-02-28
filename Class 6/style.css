@@ -1,0 +1,15 @@
+#heading{
+    color: blue;
+    text-align: center;
+    background-color: yellow;
+}
+h4{
+    color: burlywood;
+    background-color: aqua;
+}
+body {
+    background-color: gray;
+}
+button{
+    background-color: red;
+}
